@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420"
+   height="420"
+   viewBox="0 0 111.125 111.125"
+   version="1.1"
+   id="svg3049"
+   sodipodi:docname="oil-meter-hand.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs3043">
+    <linearGradient
+       id="linearGradient4471"
+       inkscape:collect="always">
+      <stop
+         id="stop4467"
+         offset="0"
+         style="stop-color:#000040;stop-opacity:0" />
+      <stop
+         id="stop4469"
+         offset="1"
+         style="stop-color:#0000ff;stop-opacity:0.75294119" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="ruler"
+       id="path-effect3636"
+       is_visible="true"
+       unit="px"
+       mark_distance="54.9"
+       mark_length="60"
+       minor_mark_length="30"
+       major_mark_steps="10"
+       shift="0"
+       offset="0"
+       mark_dir="left"
+       border_marks="both" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4471"
+       id="radialGradient4465"
+       cx="56.216652"
+       cy="245.91251"
+       fx="56.216652"
+       fy="245.91251"
+       r="10.383248"
+       gradientTransform="matrix(0.99993327,-0.01162018,0.05522969,4.5182113,-14.243886,-870.12665)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="193.90953"
+     inkscape:cy="190.98807"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3046">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-185.87499)">
+    <path
+       style="fill:url(#radialGradient4465);fill-opacity:1;stroke:none;stroke-width:4.39305925;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4447"
+       sodipodi:type="arc"
+       sodipodi:cx="55.550686"
+       sodipodi:cy="240.30508"
+       sodipodi:rx="45.479145"
+       sodipodi:ry="47.652508"
+       sodipodi:start="4.5378561"
+       sodipodi:end="4.8869219"
+       d="m 47.653317,193.37652 a 45.479145,47.652508 0 0 1 15.794739,1e-5 l -7.89737,46.92855 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     transform="translate(0,26.458333)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="73.988838"
+       y="14.363094"
+       id="text3695"><tspan
+         sodipodi:role="line"
+         id="tspan3693"
+         x="73.988838"
+         y="23.726864"
+         style="stroke-width:0.26458332"></tspan></text>
+  </g>
+</svg>

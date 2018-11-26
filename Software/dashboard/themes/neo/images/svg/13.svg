@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg29137"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="14.svg">
+  <defs
+     id="defs29139" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="144.52546"
+     inkscape:cy="484.11801"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata29142">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path20356"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 132.6213,835.59357 99.57,172.30003 c 1.47,2.52 0.6096,5.77 -1.93,7.22 -0.83,0.4904 -1.75,0.72 -2.64,0.72 l 0,0.01 -199.230001,0 c -2.93,0 -5.3,-2.37 -5.3,-5.3 0,-1.11 0.3296,-2.13 0.9,-2.97 L 123.4213,835.52357 c 1.47,-2.53 4.71,-3.39 7.24,-1.93 0.84,0.5 1.5,1.19 1.96,2 l 0,0 z m -1.18,42.98 65.16,112.75 c 1.09,1.89 0.4296,4.33 -1.46,5.42 -0.62,0.36 -1.31,0.54 -1.98,0.54 l 0,0.008 -130.310001,0 c -2.19,0 -3.98,-1.78 -3.98,-3.98 0,-0.84 0.2496,-1.6 0.68,-2.24 l 65.010001,-112.5 c 1.11,-1.89 3.54,-2.54 5.44,-1.44 0.6096,0.36 1.1,0.87 1.44,1.44 l 0,0 z m 54.83,110.76 -58.27,-100.84 -58.280001,100.84 116.550001,0 0,0 z m 32.17,15.90003 -90.44,-156.49003 -90.430001,156.49003 180.870001,0 0,0" />
+  </g>
+</svg>
